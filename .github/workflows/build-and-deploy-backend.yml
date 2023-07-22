@@ -1,0 +1,55 @@
+on:
+  push:
+    path:
+      - src/BackEnd/**
+      - .github/workflows/build-and-deploy-backend.yml
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up .NET Core
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '7.x'
+
+      - name: dotnet Build
+        working-directory: './src/BackEnd'
+        run: dotnet build Wsa.GaaS.LittleFriendFighting.BackEnd.sln --configuration Release
+
+      - name: dotnet publish
+        run: dotnet publish './src/BackEnd/Presentation/Wsa.GaaS.LittleFriendFighting.Presentation.csproj' -c Release -o publish/backend
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: backend-app
+          path: publish/backend
+
+  deploy:
+    runs-on: windows-latest
+    needs: build
+    environment:
+      name: 'production'
+
+    steps:
+      - name: Download artifact
+        uses: actions/download-artifact@v3
+        with:
+          name: backend-app
+          path: ./backend-app
+
+      - name: Display structure of downloaded files
+        run: ls -R
+
+      - name: Deploy to Azure Web App
+        id: deploy-to-webapp
+        uses: azure/webapps-deploy@v2
+        with:
+          app-name: 'LittleFriendFighting-Test'
+          slot-name: 'production'
+          publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}
+          package: './backend-app'
