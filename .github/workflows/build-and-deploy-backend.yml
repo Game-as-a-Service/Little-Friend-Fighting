@@ -18,7 +18,9 @@ jobs:
 
       - name: dotnet Build
         working-directory: './src/BackEnd'
-        run: dotnet build Wsa.GaaS.LittleFriendFighting.BackEnd.sln --configuration Release
+        run: |
+          dotnet build Wsa.GaaS.LittleFriendFighting.BackEnd.sln --configuration Release
+          dotnet test Tests/Wsa.GaaS.LittleFriendFighting.UnitTest.csproj
 
       - name: dotnet publish
         run: dotnet publish './src/BackEnd/Presentation/Wsa.GaaS.LittleFriendFighting.Presentation.csproj' -c Release -o publish/backend
