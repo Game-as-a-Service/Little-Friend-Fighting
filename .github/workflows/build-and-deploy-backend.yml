@@ -34,7 +34,7 @@ jobs:
 
   deploy-dev:
     name: Deploy backend for development
-    #if: github.ref.name == 'develop' && github.event_name == 'push'
+    if: github.ref.name == 'develop' && github.event_name == 'push'
     needs: build
     runs-on: ubuntu-latest
     environment:
