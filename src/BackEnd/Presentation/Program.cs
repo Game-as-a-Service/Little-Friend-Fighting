@@ -35,10 +35,9 @@ public class Program
             ContentTypeProvider = provider
         });
         app.UseHttpsRedirection();
-
         app.UseAuthorization();
 
-        // app.Map("/", () => "Hello World");
+        app.Map("/", () => "Hello World");
         app.MapControllers();
 
         app.Run();

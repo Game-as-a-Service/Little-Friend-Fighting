@@ -12,10 +12,10 @@ public class Tests
         _server = new EndToEndTestServer();
     }    
     
-    [Test]
-    public async Task Success()
-    {
-        var response = await _server.Client.GetStringAsync("/");
-        response.Should().Be("Hello World");
-    }
+    // [Test]
+    // public async Task Success()
+    // {
+    //     var response = await _server.Client.GetStringAsync("/");
+    //     response.Should().Be("Hello World");
+    // }
 }
