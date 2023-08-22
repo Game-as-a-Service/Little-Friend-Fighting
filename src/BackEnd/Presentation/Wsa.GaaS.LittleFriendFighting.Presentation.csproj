@@ -11,4 +11,14 @@
         <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
     </ItemGroup>
 
+
+
+    <ItemGroup>
+      <_ContentIncludedByDefault Remove="wwwroot\Build\TEST.data" />
+      <_ContentIncludedByDefault Remove="wwwroot\Build\TEST.framework.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\Build\TEST.loader.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\Build\TEST.wasm" />
+    </ItemGroup>
+
+
 </Project>

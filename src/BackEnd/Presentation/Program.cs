@@ -1,3 +1,5 @@
+using Microsoft.AspNetCore.StaticFiles;
+
 public class Program
 {
     public static void Main(string[] args)
@@ -19,12 +21,24 @@ public class Program
             app.UseSwagger();
             app.UseSwaggerUI();
         }
+        app.UseDefaultFiles();
+        var provider = new FileExtensionContentTypeProvider
+        {
+            Mappings =
+            {
+                [".data"] = "multipart/form-data"
+            }
+        };
 
+        app.UseStaticFiles(new StaticFileOptions
+        {
+            ContentTypeProvider = provider
+        });
         app.UseHttpsRedirection();
 
         app.UseAuthorization();
 
-        app.Map("/", () => "Hello World");
+        // app.Map("/", () => "Hello World");
         app.MapControllers();
 
         app.Run();
