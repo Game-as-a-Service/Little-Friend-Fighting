@@ -1,0 +1,2411 @@
+fileFormatVersion: 2
+guid: 2016e3a949821412ea78a639e3ac1329
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -992054687340927921
+    second: vs_mode_dialog_0
+  - first:
+      213: -2531562072977746318
+    second: vs_mode_dialog_1
+  - first:
+      213: -5222618965694670814
+    second: vs_mode_dialog_2
+  - first:
+      213: -5367188982050194631
+    second: vs_mode_dialog_3
+  - first:
+      213: -3931396949254076125
+    second: vs_mode_dialog_4
+  - first:
+      213: 2598460842272670635
+    second: vs_mode_dialog_5
+  - first:
+      213: -6125731426873831970
+    second: vs_mode_dialog_6
+  - first:
+      213: -3960317222604499759
+    second: vs_mode_dialog_7
+  - first:
+      213: -3358775336571572298
+    second: vs_mode_dialog_8
+  - first:
+      213: 5758152444732163393
+    second: vs_mode_dialog_9
+  - first:
+      213: -8914906175560623122
+    second: vs_mode_dialog_10
+  - first:
+      213: 7725617259429019248
+    second: vs_mode_dialog_11
+  - first:
+      213: -378029855384921001
+    second: vs_mode_dialog_12
+  - first:
+      213: -5579611546900702030
+    second: vs_mode_dialog_13
+  - first:
+      213: 4797539771331165725
+    second: vs_mode_dialog_14
+  - first:
+      213: 365188406502707867
+    second: vs_mode_dialog_15
+  - first:
+      213: 1239535849567662566
+    second: vs_mode_dialog_16
+  - first:
+      213: 4067434128683700154
+    second: vs_mode_dialog_17
+  - first:
+      213: -7196632460009146789
+    second: vs_mode_dialog_18
+  - first:
+      213: -9104479047860692137
+    second: vs_mode_dialog_19
+  - first:
+      213: 3726148654233855209
+    second: vs_mode_dialog_20
+  - first:
+      213: -873084243135082298
+    second: vs_mode_dialog_21
+  - first:
+      213: 6711586826074308619
+    second: vs_mode_dialog_22
+  - first:
+      213: 1555287030010307535
+    second: vs_mode_dialog_23
+  - first:
+      213: 7950809546001097146
+    second: vs_mode_dialog_24
+  - first:
+      213: 8308161396745202021
+    second: vs_mode_dialog_25
+  - first:
+      213: 9068651015422024597
+    second: vs_mode_dialog_26
+  - first:
+      213: -5626697148354028864
+    second: vs_mode_dialog_27
+  - first:
+      213: 6349330180375904092
+    second: vs_mode_dialog_28
+  - first:
+      213: 7588541424497244676
+    second: vs_mode_dialog_29
+  - first:
+      213: -7614992516491218138
+    second: vs_mode_dialog_30
+  - first:
+      213: -7409921853065602758
+    second: vs_mode_dialog_31
+  - first:
+      213: -3590073805257245870
+    second: vs_mode_dialog_32
+  - first:
+      213: -2556323751147648691
+    second: vs_mode_dialog_33
+  - first:
+      213: -7170341986824696157
+    second: vs_mode_dialog_34
+  - first:
+      213: -3969351669393367
+    second: vs_mode_dialog_35
+  - first:
+      213: 2618798324645816702
+    second: vs_mode_dialog_36
+  - first:
+      213: -821414610152239755
+    second: vs_mode_dialog_37
+  - first:
+      213: 4916150302356700470
+    second: vs_mode_dialog_38
+  - first:
+      213: 2041480045362082704
+    second: vs_mode_dialog_39
+  - first:
+      213: -2201352975253840441
+    second: vs_mode_dialog_40
+  - first:
+      213: -8587305649540133196
+    second: vs_mode_dialog_41
+  - first:
+      213: -6255137514340047297
+    second: vs_mode_dialog_42
+  - first:
+      213: -3752391158585783321
+    second: vs_mode_dialog_43
+  - first:
+      213: 3921650107704717400
+    second: vs_mode_dialog_44
+  - first:
+      213: -7128107769259416951
+    second: vs_mode_dialog_45
+  - first:
+      213: -4678302630093922000
+    second: vs_mode_dialog_46
+  - first:
+      213: 8930626841954440334
+    second: vs_mode_dialog_47
+  - first:
+      213: -6971493345848868554
+    second: vs_mode_dialog_48
+  - first:
+      213: 9209905834154993010
+    second: vs_mode_dialog_49
+  - first:
+      213: -4986955537023630432
+    second: vs_mode_dialog_50
+  - first:
+      213: 5877907623755818397
+    second: vs_mode_dialog_51
+  - first:
+      213: 7647259608322620542
+    second: vs_mode_dialog_52
+  - first:
+      213: 341418751950940702
+    second: vs_mode_dialog_53
+  - first:
+      213: 8404571885888899012
+    second: vs_mode_dialog_54
+  - first:
+      213: 3807588543947041086
+    second: vs_mode_dialog_55
+  - first:
+      213: -241682641465027491
+    second: vs_mode_dialog_56
+  - first:
+      213: 6678673017202092242
+    second: vs_mode_dialog_57
+  - first:
+      213: -3626904230447456364
+    second: vs_mode_dialog_58
+  - first:
+      213: -1371897710742258668
+    second: vs_mode_dialog_59
+  - first:
+      213: -1948012940532785586
+    second: vs_mode_dialog_60
+  - first:
+      213: 6753418311863833615
+    second: vs_mode_dialog_61
+  - first:
+      213: 6989601469461223190
+    second: vs_mode_dialog_62
+  - first:
+      213: -3174805455732177109
+    second: vs_mode_dialog_63
+  - first:
+      213: -5116983932225409758
+    second: vs_mode_dialog_64
+  - first:
+      213: 4274428406975700214
+    second: vs_mode_dialog_65
+  - first:
+      213: 543045650764197653
+    second: vs_mode_dialog_66
+  - first:
+      213: -94053883073453673
+    second: vs_mode_dialog_67
+  - first:
+      213: -4466850076428766244
+    second: vs_mode_dialog_68
+  - first:
+      213: 7914710139276862161
+    second: vs_mode_dialog_69
+  - first:
+      213: -1357279138056087049
+    second: vs_mode_dialog_70
+  - first:
+      213: 6760401582753593844
+    second: vs_mode_dialog_71
+  - first:
+      213: 6432773658611096211
+    second: vs_mode_dialog_72
+  - first:
+      213: 2389582489787910758
+    second: vs_mode_dialog_73
+  - first:
+      213: 1530010033670848115
+    second: vs_mode_dialog_74
+  - first:
+      213: -2775124667105195049
+    second: vs_mode_dialog_75
+  - first:
+      213: -2638353162185481594
+    second: vs_mode_dialog_76
+  - first:
+      213: -1493993876263609468
+    second: vs_mode_dialog_77
+  - first:
+      213: 8578793493410052710
+    second: vs_mode_dialog_78
+  - first:
+      213: -6860738118748784340
+    second: vs_mode_dialog_79
+  - first:
+      213: 4950868585133135480
+    second: vs_mode_dialog_80
+  - first:
+      213: -1204557552914289025
+    second: vs_mode_dialog_81
+  - first:
+      213: -2711912481437486010
+    second: vs_mode_dialog_82
+  - first:
+      213: -4512512501473105864
+    second: vs_mode_dialog_83
+  - first:
+      213: -7111623133192028096
+    second: vs_mode_dialog_84
+  - first:
+      213: 6062110331867968935
+    second: vs_mode_dialog_85
+  - first:
+      213: 6592049764940100154
+    second: vs_mode_dialog_86
+  - first:
+      213: -3779932124339587386
+    second: vs_mode_dialog_87
+  - first:
+      213: 3408446757844548767
+    second: vs_mode_dialog_88
+  - first:
+      213: -3521014728105333823
+    second: vs_mode_dialog_89
+  - first:
+      213: 3263378965928332953
+    second: vs_mode_dialog_90
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vs_mode_dialog_0
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 136
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44684b94838b32f0800000000000000
+      internalID: -992054687340927921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 133
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2765f4915b51edcd0800000000000000
+      internalID: -2531562072977746318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 136
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2281d88a8b78587b0800000000000000
+      internalID: -5222618965694670814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 136
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93bf182be0ae385b0800000000000000
+      internalID: -5367188982050194631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_4
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 133
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32908a8dd4fd079c0800000000000000
+      internalID: -3931396949254076125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 134
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3cc6a6e569f0420800000000000000
+      internalID: 2598460842272670635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 135
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd0db709b70dfaa0800000000000000
+      internalID: -6125731426873831970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_7
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 134
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d41cccf7702a09c0800000000000000
+      internalID: -3960317222604499759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_8
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 134
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bfee4f70ab3361d0800000000000000
+      internalID: -3358775336571572298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_9
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 141
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145cec6f32119ef40800000000000000
+      internalID: 5758152444732163393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_10
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 134
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebd5c70114e74480800000000000000
+      internalID: -8914906175560623122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_11
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 133
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07eb4e227f7e63b60800000000000000
+      internalID: 7725617259429019248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_12
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 130
+        width: 128
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c1a4379d7f0caf0800000000000000
+      internalID: -378029855384921001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 112
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bcd0523cdc3192b0800000000000000
+      internalID: -5579611546900702030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_14
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 112
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1eb00ae009449240800000000000000
+      internalID: 4797539771331165725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_15
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 112
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b925fadbbe8611500800000000000000
+      internalID: 365188406502707867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1b7dfa947b33110800000000000000
+      internalID: 1239535849567662566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_17
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 112
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf0e733acd627830800000000000000
+      internalID: 4067434128683700154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_18
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 112
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56fb1238ec602c90800000000000000
+      internalID: -7196632460009146789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_19
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 109
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75bd6472b8466a180800000000000000
+      internalID: -9104479047860692137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_20
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4a8e38570f5b330800000000000000
+      internalID: 3726148654233855209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_21
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c051f4b18e22e3f0800000000000000
+      internalID: -873084243135082298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_22
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 110
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00c957a8a8542d50800000000000000
+      internalID: 6711586826074308619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_23
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 119
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc36983405d759510800000000000000
+      internalID: 1555287030010307535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_24
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 119
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab12e2a2823f65e60800000000000000
+      internalID: 7950809546001097146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_25
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 110
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5696c9595c48c4370800000000000000
+      internalID: 8308161396745202021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_26
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 110
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b173efc025add70800000000000000
+      internalID: 9068651015422024597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_27
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 110
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca97ad41c4f9e1b0800000000000000
+      internalID: -5626697148354028864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_28
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ff8faa82a5d1850800000000000000
+      internalID: 6349330180375904092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_29
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 109
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40abe72483aef4960800000000000000
+      internalID: 7588541424497244676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_30
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 108
+        width: 188
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6237847f6ac125690800000000000000
+      internalID: -7614992516491218138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_31
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 89
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39de96855baa2990800000000000000
+      internalID: -7409921853065602758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_32
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 89
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bf43825ee7d2ec0800000000000000
+      internalID: -3590073805257245870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_33
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 89
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4943f1a71d168cd0800000000000000
+      internalID: -2556323751147648691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_34
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 89
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aece3df3f3dd7c90800000000000000
+      internalID: -7170341986824696157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 89
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928d1cb45e5e1fff0800000000000000
+      internalID: -3969351669393367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_36
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 89
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79e6e68337d75420800000000000000
+      internalID: 2618798324645816702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_37
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 89
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d4f8c93cfb994f0800000000000000
+      internalID: -821414610152239755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_38
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 89
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d766237aca93440800000000000000
+      internalID: 4916150302356700470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_39
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 89
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093fad7f84bc45c10800000000000000
+      internalID: 2041480045362082704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_40
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 89
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cddebcd1293371e0800000000000000
+      internalID: -2201352975253840441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_41
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 86
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be847d5203c3d880800000000000000
+      internalID: -8587305649540133196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_42
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36aa8462994139a0800000000000000
+      internalID: -6255137514340047297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_43
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb8d2e4f14dcebc0800000000000000
+      internalID: -3752391158585783321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_44
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850bc13ceff7c6630800000000000000
+      internalID: 3921650107704717400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_45
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982279c00cfd31d90800000000000000
+      internalID: -7128107769259416951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_46
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 87
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031e97d6b84531fb0800000000000000
+      internalID: -4678302630093922000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_47
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e845348dbc5ffeb70800000000000000
+      internalID: 8930626841954440334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_48
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 86
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631cdae0db7404f90800000000000000
+      internalID: -6971493345848868554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_49
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 83
+        width: 237
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2752b9b5f8820df70800000000000000
+      internalID: 9209905834154993010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_50
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 65
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a30a017c56cacab0800000000000000
+      internalID: -4986955537023630432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_51
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 65
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95a68067d5829150800000000000000
+      internalID: 5877907623755818397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_52
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 65
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c334bc816802a60800000000000000
+      internalID: 7647259608322620542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_53
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 65
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a61b5cb86fcb400800000000000000
+      internalID: 341418751950940702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_54
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 62
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c784a3d99903a470800000000000000
+      internalID: 8404571885888899012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 65
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e396fc47b9547d430800000000000000
+      internalID: 3807588543947041086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_56
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 65
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5459170bee55acf0800000000000000
+      internalID: -241682641465027491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_57
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 65
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8215959b96fac50800000000000000
+      internalID: 6678673017202092242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_58
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 65
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f51dd81d5aaadc0800000000000000
+      internalID: -3626904230447456364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_59
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 65
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c390bfc4a06fce0800000000000000
+      internalID: -1371897710742258668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_60
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 62
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4edda53d8447f4e0800000000000000
+      internalID: -1948012940532785586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_61
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 63
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04134a6c26f8bd50800000000000000
+      internalID: 6753418311863833615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_62
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 72
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617d8c4018d000160800000000000000
+      internalID: 6989601469461223190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_63
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 70
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b278c144243d0f3d0800000000000000
+      internalID: -3174805455732177109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_64
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 62
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22da25e7932dcf8b0800000000000000
+      internalID: -5116983932225409758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_65
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 61
+        width: 129
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc10af3df1d15b30800000000000000
+      internalID: 4274428406975700214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_66
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 60
+        width: 281
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fee966429498700800000000000000
+      internalID: 543045650764197653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_67
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 63
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79129addd7ad1bef0800000000000000
+      internalID: -94053883073453673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_68
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 41
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd37989958f8202c0800000000000000
+      internalID: -4466850076428766244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_69
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 41
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2a7cf00f2b6dd60800000000000000
+      internalID: 7914710139276862161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_70
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 41
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f95e1ba0d9f92de0800000000000000
+      internalID: -1357279138056087049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_71
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 41
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9340fdb65c1dd50800000000000000
+      internalID: 6760401582753593844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_72
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 41
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a110a6f8dc54950800000000000000
+      internalID: 6432773658611096211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_73
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 41
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a4d492d90892120800000000000000
+      internalID: 2389582489787910758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_74
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 38
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37efbbfe400bb3510800000000000000
+      internalID: 1530010033670848115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_75
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 38
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db45c981d6cc79d0800000000000000
+      internalID: -2775124667105195049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_76
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682e7ef07cfa26bd0800000000000000
+      internalID: -2638353162185481594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_77
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bd2bc2c74444be0800000000000000
+      internalID: -1493993876263609468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_78
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 38
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a7328da3ffd0770800000000000000
+      internalID: 8578793493410052710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_79
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 37
+        width: 97
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c293ffed703c9c0a0800000000000000
+      internalID: -6860738118748784340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_80
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 36
+        width: 230
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87650825fb405b440800000000000000
+      internalID: 4950868585133135480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_81
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 17
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ea703a94d884fe0800000000000000
+      internalID: -1204557552914289025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_82
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 17
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64478f967f95d5ad0800000000000000
+      internalID: -2711912481437486010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_83
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 17
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838af29c9c55061c0800000000000000
+      internalID: -4512512501473105864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_84
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 14
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04083a970707e4d90800000000000000
+      internalID: -7111623133192028096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_85
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 15
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a537387a31f02450800000000000000
+      internalID: 6062110331867968935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_86
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 15
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32b3f4c55aab7b50800000000000000
+      internalID: 6592049764940100154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_87
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 16
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6b6a582cbfa8bc0800000000000000
+      internalID: -3779932124339587386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_88
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 15
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cf72d744c3d4f20800000000000000
+      internalID: 3408446757844548767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_89
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 14
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cbec5a82c7d22fc0800000000000000
+      internalID: -3521014728105333823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vs_mode_dialog_90
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 14
+        width: 113
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ec3af11e9d94d20800000000000000
+      internalID: 3263378965928332953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      vs_mode_dialog_0: -992054687340927921
+      vs_mode_dialog_1: -2531562072977746318
+      vs_mode_dialog_10: -8914906175560623122
+      vs_mode_dialog_11: 7725617259429019248
+      vs_mode_dialog_12: -378029855384921001
+      vs_mode_dialog_13: -5579611546900702030
+      vs_mode_dialog_14: 4797539771331165725
+      vs_mode_dialog_15: 365188406502707867
+      vs_mode_dialog_16: 1239535849567662566
+      vs_mode_dialog_17: 4067434128683700154
+      vs_mode_dialog_18: -7196632460009146789
+      vs_mode_dialog_19: -9104479047860692137
+      vs_mode_dialog_2: -5222618965694670814
+      vs_mode_dialog_20: 3726148654233855209
+      vs_mode_dialog_21: -873084243135082298
+      vs_mode_dialog_22: 6711586826074308619
+      vs_mode_dialog_23: 1555287030010307535
+      vs_mode_dialog_24: 7950809546001097146
+      vs_mode_dialog_25: 8308161396745202021
+      vs_mode_dialog_26: 9068651015422024597
+      vs_mode_dialog_27: -5626697148354028864
+      vs_mode_dialog_28: 6349330180375904092
+      vs_mode_dialog_29: 7588541424497244676
+      vs_mode_dialog_3: -5367188982050194631
+      vs_mode_dialog_30: -7614992516491218138
+      vs_mode_dialog_31: -7409921853065602758
+      vs_mode_dialog_32: -3590073805257245870
+      vs_mode_dialog_33: -2556323751147648691
+      vs_mode_dialog_34: -7170341986824696157
+      vs_mode_dialog_35: -3969351669393367
+      vs_mode_dialog_36: 2618798324645816702
+      vs_mode_dialog_37: -821414610152239755
+      vs_mode_dialog_38: 4916150302356700470
+      vs_mode_dialog_39: 2041480045362082704
+      vs_mode_dialog_4: -3931396949254076125
+      vs_mode_dialog_40: -2201352975253840441
+      vs_mode_dialog_41: -8587305649540133196
+      vs_mode_dialog_42: -6255137514340047297
+      vs_mode_dialog_43: -3752391158585783321
+      vs_mode_dialog_44: 3921650107704717400
+      vs_mode_dialog_45: -7128107769259416951
+      vs_mode_dialog_46: -4678302630093922000
+      vs_mode_dialog_47: 8930626841954440334
+      vs_mode_dialog_48: -6971493345848868554
+      vs_mode_dialog_49: 9209905834154993010
+      vs_mode_dialog_5: 2598460842272670635
+      vs_mode_dialog_50: -4986955537023630432
+      vs_mode_dialog_51: 5877907623755818397
+      vs_mode_dialog_52: 7647259608322620542
+      vs_mode_dialog_53: 341418751950940702
+      vs_mode_dialog_54: 8404571885888899012
+      vs_mode_dialog_55: 3807588543947041086
+      vs_mode_dialog_56: -241682641465027491
+      vs_mode_dialog_57: 6678673017202092242
+      vs_mode_dialog_58: -3626904230447456364
+      vs_mode_dialog_59: -1371897710742258668
+      vs_mode_dialog_6: -6125731426873831970
+      vs_mode_dialog_60: -1948012940532785586
+      vs_mode_dialog_61: 6753418311863833615
+      vs_mode_dialog_62: 6989601469461223190
+      vs_mode_dialog_63: -3174805455732177109
+      vs_mode_dialog_64: -5116983932225409758
+      vs_mode_dialog_65: 4274428406975700214
+      vs_mode_dialog_66: 543045650764197653
+      vs_mode_dialog_67: -94053883073453673
+      vs_mode_dialog_68: -4466850076428766244
+      vs_mode_dialog_69: 7914710139276862161
+      vs_mode_dialog_7: -3960317222604499759
+      vs_mode_dialog_70: -1357279138056087049
+      vs_mode_dialog_71: 6760401582753593844
+      vs_mode_dialog_72: 6432773658611096211
+      vs_mode_dialog_73: 2389582489787910758
+      vs_mode_dialog_74: 1530010033670848115
+      vs_mode_dialog_75: -2775124667105195049
+      vs_mode_dialog_76: -2638353162185481594
+      vs_mode_dialog_77: -1493993876263609468
+      vs_mode_dialog_78: 8578793493410052710
+      vs_mode_dialog_79: -6860738118748784340
+      vs_mode_dialog_8: -3358775336571572298
+      vs_mode_dialog_80: 4950868585133135480
+      vs_mode_dialog_81: -1204557552914289025
+      vs_mode_dialog_82: -2711912481437486010
+      vs_mode_dialog_83: -4512512501473105864
+      vs_mode_dialog_84: -7111623133192028096
+      vs_mode_dialog_85: 6062110331867968935
+      vs_mode_dialog_86: 6592049764940100154
+      vs_mode_dialog_87: -3779932124339587386
+      vs_mode_dialog_88: 3408446757844548767
+      vs_mode_dialog_89: -3521014728105333823
+      vs_mode_dialog_9: 5758152444732163393
+      vs_mode_dialog_90: 3263378965928332953
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

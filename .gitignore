@@ -364,3 +364,43 @@ FodyWeavers.xsd
 
 # Rider
 .idea
+
+
+
+
+
+# by unity project
+
+# unity ignore dir
+[Bb]in/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+ 
+# unity ignore file
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.meta
+*.tmp
+ 
+# need include the meta of file
+!*.*.meta
+
+
+# Default ignored files
+shelf/
+workspace.xml
+# Rider ignored files
+.idea.WalkDemo.iml
+contentModel.xml
+modules.xml
+projectSettingsUpdater.xml
+# Editor-based HTTP Client requests
+httpRequests/
+# Datasource local storage ignored files
+dataSources/
+dataSources.local.xml
+.DS_Store

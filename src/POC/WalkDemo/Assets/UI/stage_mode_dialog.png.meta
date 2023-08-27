@@ -1,0 +1,2211 @@
+fileFormatVersion: 2
+guid: b8294c582da714df2b8ed8ccf6a27f79
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4803257754266418034
+    second: stage_mode_dialog_0
+  - first:
+      213: 6331048682603244136
+    second: stage_mode_dialog_1
+  - first:
+      213: 8519356448676153506
+    second: stage_mode_dialog_2
+  - first:
+      213: -8279001946294280652
+    second: stage_mode_dialog_3
+  - first:
+      213: -8049843360249252166
+    second: stage_mode_dialog_4
+  - first:
+      213: -190721938415769612
+    second: stage_mode_dialog_5
+  - first:
+      213: 6584990987998302023
+    second: stage_mode_dialog_6
+  - first:
+      213: 2375552900860667750
+    second: stage_mode_dialog_7
+  - first:
+      213: 45829076176295426
+    second: stage_mode_dialog_8
+  - first:
+      213: 737290035845400965
+    second: stage_mode_dialog_9
+  - first:
+      213: 9180061981325539479
+    second: stage_mode_dialog_10
+  - first:
+      213: -5268502677313421627
+    second: stage_mode_dialog_11
+  - first:
+      213: -1213694181356868075
+    second: stage_mode_dialog_12
+  - first:
+      213: 8638437822543833427
+    second: stage_mode_dialog_13
+  - first:
+      213: 5943453446278303607
+    second: stage_mode_dialog_14
+  - first:
+      213: 3584215076314266173
+    second: stage_mode_dialog_15
+  - first:
+      213: 422461439607075976
+    second: stage_mode_dialog_16
+  - first:
+      213: -2349479569903962630
+    second: stage_mode_dialog_17
+  - first:
+      213: -884314053825614729
+    second: stage_mode_dialog_18
+  - first:
+      213: 8879227709300807308
+    second: stage_mode_dialog_19
+  - first:
+      213: 283665584162245464
+    second: stage_mode_dialog_20
+  - first:
+      213: -7944335201171894942
+    second: stage_mode_dialog_21
+  - first:
+      213: 39054344792028525
+    second: stage_mode_dialog_22
+  - first:
+      213: -667091228388287294
+    second: stage_mode_dialog_23
+  - first:
+      213: -6380414752897845885
+    second: stage_mode_dialog_24
+  - first:
+      213: -9042772070217447718
+    second: stage_mode_dialog_25
+  - first:
+      213: 2831106803957300359
+    second: stage_mode_dialog_26
+  - first:
+      213: -8768760484499824590
+    second: stage_mode_dialog_27
+  - first:
+      213: 1592220499586270234
+    second: stage_mode_dialog_28
+  - first:
+      213: -1096517168784135433
+    second: stage_mode_dialog_29
+  - first:
+      213: 7498377581275609497
+    second: stage_mode_dialog_30
+  - first:
+      213: -8486595823947629410
+    second: stage_mode_dialog_31
+  - first:
+      213: 2540638739118139826
+    second: stage_mode_dialog_32
+  - first:
+      213: 7394133148670287461
+    second: stage_mode_dialog_33
+  - first:
+      213: 1714630138785730082
+    second: stage_mode_dialog_34
+  - first:
+      213: -922846596548990369
+    second: stage_mode_dialog_35
+  - first:
+      213: 4067344959887984815
+    second: stage_mode_dialog_36
+  - first:
+      213: -3047476451572964257
+    second: stage_mode_dialog_37
+  - first:
+      213: 7380551586563619153
+    second: stage_mode_dialog_38
+  - first:
+      213: 2243552107942982557
+    second: stage_mode_dialog_39
+  - first:
+      213: -3990610995093174112
+    second: stage_mode_dialog_40
+  - first:
+      213: -2529445555306979615
+    second: stage_mode_dialog_41
+  - first:
+      213: 3372985107525655321
+    second: stage_mode_dialog_42
+  - first:
+      213: -2347788007046051903
+    second: stage_mode_dialog_43
+  - first:
+      213: 6466361140200264837
+    second: stage_mode_dialog_44
+  - first:
+      213: -6631024116461978022
+    second: stage_mode_dialog_45
+  - first:
+      213: -5227073441093621446
+    second: stage_mode_dialog_46
+  - first:
+      213: 2780701452924458705
+    second: stage_mode_dialog_47
+  - first:
+      213: 2438611521645517506
+    second: stage_mode_dialog_48
+  - first:
+      213: 3807118338822083827
+    second: stage_mode_dialog_49
+  - first:
+      213: 3667321454462181518
+    second: stage_mode_dialog_50
+  - first:
+      213: -434664379624621654
+    second: stage_mode_dialog_51
+  - first:
+      213: -4039692014496968436
+    second: stage_mode_dialog_52
+  - first:
+      213: 8433115033406877198
+    second: stage_mode_dialog_53
+  - first:
+      213: -9173282149152809629
+    second: stage_mode_dialog_54
+  - first:
+      213: 3626079373476735941
+    second: stage_mode_dialog_55
+  - first:
+      213: 7174393785770443479
+    second: stage_mode_dialog_56
+  - first:
+      213: -5152306326746383059
+    second: stage_mode_dialog_57
+  - first:
+      213: -6836903785333378832
+    second: stage_mode_dialog_58
+  - first:
+      213: -5356291674451712283
+    second: stage_mode_dialog_59
+  - first:
+      213: -4375414214717836395
+    second: stage_mode_dialog_60
+  - first:
+      213: 5022885218304344723
+    second: stage_mode_dialog_61
+  - first:
+      213: -9149285039843358472
+    second: stage_mode_dialog_62
+  - first:
+      213: 532054503837645750
+    second: stage_mode_dialog_63
+  - first:
+      213: -7878762094349807192
+    second: stage_mode_dialog_64
+  - first:
+      213: 5299050585326751952
+    second: stage_mode_dialog_65
+  - first:
+      213: 3792226230711623903
+    second: stage_mode_dialog_66
+  - first:
+      213: 3512962602542031004
+    second: stage_mode_dialog_67
+  - first:
+      213: 4273962541990994176
+    second: stage_mode_dialog_68
+  - first:
+      213: -5820321238456390176
+    second: stage_mode_dialog_69
+  - first:
+      213: -8967735377339060475
+    second: stage_mode_dialog_70
+  - first:
+      213: -6988712223834536137
+    second: stage_mode_dialog_71
+  - first:
+      213: 6334383586033988214
+    second: stage_mode_dialog_72
+  - first:
+      213: 364144828811340056
+    second: stage_mode_dialog_73
+  - first:
+      213: 1378547573774026569
+    second: stage_mode_dialog_74
+  - first:
+      213: -7206552883662053436
+    second: stage_mode_dialog_75
+  - first:
+      213: -1426061629196836556
+    second: stage_mode_dialog_76
+  - first:
+      213: 4348701215234578908
+    second: stage_mode_dialog_77
+  - first:
+      213: -871437476467394499
+    second: stage_mode_dialog_78
+  - first:
+      213: -7376118357012840102
+    second: stage_mode_dialog_79
+  - first:
+      213: -6219340670437883714
+    second: stage_mode_dialog_80
+  - first:
+      213: -2366270177073241216
+    second: stage_mode_dialog_81
+  - first:
+      213: 252104644372322373
+    second: stage_mode_dialog_82
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stage_mode_dialog_0
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 136
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e844f407586675db0800000000000000
+      internalID: -4803257754266418034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 133
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a6546cb376cd750800000000000000
+      internalID: 6331048682603244136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 136
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a886467d85da3670800000000000000
+      internalID: 8519356448676153506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 136
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e9c5808931b1d80800000000000000
+      internalID: -8279001946294280652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_4
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 133
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab67ece1d16394090800000000000000
+      internalID: -8049843360249252166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 134
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7aad1586b6a5df0800000000000000
+      internalID: -190721938415769612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 135
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f89c03a66926b50800000000000000
+      internalID: 6584990987998302023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_7
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 134
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667e2f0f6c8a7f020800000000000000
+      internalID: 2375552900860667750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_8
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 134
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2065fdd4d41d2a000800000000000000
+      internalID: 45829076176295426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_9
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 141
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589000b91616b3a00800000000000000
+      internalID: 737290035845400965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_10
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 134
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7983af4ebb1266f70800000000000000
+      internalID: 9180061981325539479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_11
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 133
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cef98c8ab482e6b0800000000000000
+      internalID: -5268502677313421627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_12
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 130
+        width: 128
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ee34e8297182fe0800000000000000
+      internalID: -1213694181356868075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 112
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35926036e65e1e770800000000000000
+      internalID: 8638437822543833427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_14
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 112
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f4d7c6b636b7250800000000000000
+      internalID: 5943453446278303607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_15
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 112
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3abf463f90bdb130800000000000000
+      internalID: 3584215076314266173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8847417e072ecd500800000000000000
+      internalID: 422461439607075976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_17
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 112
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af536dc77c8f46fd0800000000000000
+      internalID: -2349479569903962630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_18
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 112
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ca6d7ad094ab3f0800000000000000
+      internalID: -884314053825614729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_19
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 109
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c861ea4be8a593b70800000000000000
+      internalID: 8879227709300807308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_20
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b8efa8858cfe300800000000000000
+      internalID: 283665584162245464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_21
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d8485b93d00c190800000000000000
+      internalID: -7944335201171894942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_22
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 110
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65b34c38bfba8000800000000000000
+      internalID: 39054344792028525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_23
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 119
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc132bef040eb6f0800000000000000
+      internalID: -667091228388287294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_24
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 119
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385bcdd46963477a0800000000000000
+      internalID: -6380414752897845885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_25
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 110
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad68dd976be918280800000000000000
+      internalID: -9042772070217447718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_26
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 110
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cf01b63ac1a4720800000000000000
+      internalID: 2831106803957300359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_27
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 110
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230e7e85cca1f4680800000000000000
+      internalID: -8768760484499824590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_28
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a144fe1cb14b81610800000000000000
+      internalID: 1592220499586270234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_29
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 109
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa2180d17368c0f0800000000000000
+      internalID: -1096517168784135433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_30
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 108
+        width: 188
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9997fab9ea69f0860800000000000000
+      internalID: 7498377581275609497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_31
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 89
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9cb941ef0e893a80800000000000000
+      internalID: -8486595823947629410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_32
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 89
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9abbbe879224320800000000000000
+      internalID: 2540638739118139826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_33
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 89
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ede644cec3d9660800000000000000
+      internalID: 7394133148670287461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_34
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 89
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e8087d6079bc710800000000000000
+      internalID: 1714630138785730082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 89
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ae48ee8e36133f0800000000000000
+      internalID: -922846596548990369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_36
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 89
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa84919f0bc127830800000000000000
+      internalID: 4067344959887984815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_37
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 89
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5420a2405035b5d0800000000000000
+      internalID: -3047476451572964257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_38
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 89
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159f19b609cfc6660800000000000000
+      internalID: 7380551586563619153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_39
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 89
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93350d51c2b22f10800000000000000
+      internalID: 2243552107942982557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_40
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 89
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a804b071708e98c0800000000000000
+      internalID: -3990610995093174112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_41
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 86
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee9c354baa95ecd0800000000000000
+      internalID: -2529445555306979615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_42
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91bdfbe95104fce20800000000000000
+      internalID: 3372985107525655321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_43
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c709182f3bfa6fd0800000000000000
+      internalID: -2347788007046051903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_44
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584d60f52312db950800000000000000
+      internalID: 6466361140200264837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_45
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e3c31e2bed9f3a0800000000000000
+      internalID: -6631024116461978022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_46
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 87
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a396cb84664b577b0800000000000000
+      internalID: -5227073441093621446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_47
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d699f71d39079620800000000000000
+      internalID: 2780701452924458705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_48
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 86
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca1bd43240b7d120800000000000000
+      internalID: 2438611521645517506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_49
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 83
+        width: 237
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f49d5b45f995d430800000000000000
+      internalID: 3807118338822083827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_50
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 65
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80236abe61f4e230800000000000000
+      internalID: 3667321454462181518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_51
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 65
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa975f7bc03c7f9f0800000000000000
+      internalID: -434664379624621654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_52
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 65
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c011de9148120f7c0800000000000000
+      internalID: -4039692014496968436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_53
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 62
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e293c3171780570800000000000000
+      internalID: 8433115033406877198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_54
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 65
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d905bcc74f1b080800000000000000
+      internalID: -9173282149152809629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_55
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 62
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cba3777afb625230800000000000000
+      internalID: 3626079373476735941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_56
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 63
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d20e97f221909360800000000000000
+      internalID: 7174393785770443479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_57
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 62
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2db844a1b45f78b0800000000000000
+      internalID: -5152306326746383059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_58
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 61
+        width: 61
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f03eaf0b307e11a0800000000000000
+      internalID: -6836903785333378832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_59
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 60
+        width: 167
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e66ce6d911aaa5b0800000000000000
+      internalID: -5356291674451712283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_60
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 41
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5937c8224f76743c0800000000000000
+      internalID: -4375414214717836395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_61
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 41
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39247906e7fd4b540800000000000000
+      internalID: 5022885218304344723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_62
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 41
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f847533bb5370180800000000000000
+      internalID: -9149285039843358472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_63
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 41
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbb36690cc326700800000000000000
+      internalID: 532054503837645750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_64
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 41
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a197706e9309a290800000000000000
+      internalID: -7878762094349807192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_65
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 41
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d01a398e620a8940800000000000000
+      internalID: 5299050585326751952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_66
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 38
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd02c7d2aa1b0a430800000000000000
+      internalID: 3792226230711623903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_67
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 38
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90efb1efdc80c030800000000000000
+      internalID: 3512962602542031004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_68
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001e2ba994a205b30800000000000000
+      internalID: 4273962541990994176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_69
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed2527cba01a3fa0800000000000000
+      internalID: -5820321238456390176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_70
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 38
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f600aff243c8380800000000000000
+      internalID: -8967735377339060475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_71
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 37
+        width: 97
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73789ec924b130f90800000000000000
+      internalID: -6988712223834536137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_72
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 36
+        width: 230
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672fe9c7f4048e750800000000000000
+      internalID: 6334383586033988214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_73
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 17
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8196810eac3bd0500800000000000000
+      internalID: 364144828811340056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_74
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 17
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94707c8e6b5912310800000000000000
+      internalID: 1378547573774026569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_75
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 17
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf9142955e2dfb90800000000000000
+      internalID: -7206552883662053436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_76
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 14
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43168ebf08c953ce0800000000000000
+      internalID: -1426061629196836556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_77
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 15
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9dd5007b0b95c30800000000000000
+      internalID: 4348701215234578908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_78
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 15
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38b2337b3808e3f0800000000000000
+      internalID: -871437476467394499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_79
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 16
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5103054f63c2a990800000000000000
+      internalID: -7376118357012840102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_80
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 15
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb009699c9670b9a0800000000000000
+      internalID: -6219340670437883714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_81
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 14
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083e2fc9fc1592fd0800000000000000
+      internalID: -2366270177073241216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage_mode_dialog_82
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 14
+        width: 113
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548d90e96d7af7300800000000000000
+      internalID: 252104644372322373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      stage_mode_dialog_0: -4803257754266418034
+      stage_mode_dialog_1: 6331048682603244136
+      stage_mode_dialog_10: 9180061981325539479
+      stage_mode_dialog_11: -5268502677313421627
+      stage_mode_dialog_12: -1213694181356868075
+      stage_mode_dialog_13: 8638437822543833427
+      stage_mode_dialog_14: 5943453446278303607
+      stage_mode_dialog_15: 3584215076314266173
+      stage_mode_dialog_16: 422461439607075976
+      stage_mode_dialog_17: -2349479569903962630
+      stage_mode_dialog_18: -884314053825614729
+      stage_mode_dialog_19: 8879227709300807308
+      stage_mode_dialog_2: 8519356448676153506
+      stage_mode_dialog_20: 283665584162245464
+      stage_mode_dialog_21: -7944335201171894942
+      stage_mode_dialog_22: 39054344792028525
+      stage_mode_dialog_23: -667091228388287294
+      stage_mode_dialog_24: -6380414752897845885
+      stage_mode_dialog_25: -9042772070217447718
+      stage_mode_dialog_26: 2831106803957300359
+      stage_mode_dialog_27: -8768760484499824590
+      stage_mode_dialog_28: 1592220499586270234
+      stage_mode_dialog_29: -1096517168784135433
+      stage_mode_dialog_3: -8279001946294280652
+      stage_mode_dialog_30: 7498377581275609497
+      stage_mode_dialog_31: -8486595823947629410
+      stage_mode_dialog_32: 2540638739118139826
+      stage_mode_dialog_33: 7394133148670287461
+      stage_mode_dialog_34: 1714630138785730082
+      stage_mode_dialog_35: -922846596548990369
+      stage_mode_dialog_36: 4067344959887984815
+      stage_mode_dialog_37: -3047476451572964257
+      stage_mode_dialog_38: 7380551586563619153
+      stage_mode_dialog_39: 2243552107942982557
+      stage_mode_dialog_4: -8049843360249252166
+      stage_mode_dialog_40: -3990610995093174112
+      stage_mode_dialog_41: -2529445555306979615
+      stage_mode_dialog_42: 3372985107525655321
+      stage_mode_dialog_43: -2347788007046051903
+      stage_mode_dialog_44: 6466361140200264837
+      stage_mode_dialog_45: -6631024116461978022
+      stage_mode_dialog_46: -5227073441093621446
+      stage_mode_dialog_47: 2780701452924458705
+      stage_mode_dialog_48: 2438611521645517506
+      stage_mode_dialog_49: 3807118338822083827
+      stage_mode_dialog_5: -190721938415769612
+      stage_mode_dialog_50: 3667321454462181518
+      stage_mode_dialog_51: -434664379624621654
+      stage_mode_dialog_52: -4039692014496968436
+      stage_mode_dialog_53: 8433115033406877198
+      stage_mode_dialog_54: -9173282149152809629
+      stage_mode_dialog_55: 3626079373476735941
+      stage_mode_dialog_56: 7174393785770443479
+      stage_mode_dialog_57: -5152306326746383059
+      stage_mode_dialog_58: -6836903785333378832
+      stage_mode_dialog_59: -5356291674451712283
+      stage_mode_dialog_6: 6584990987998302023
+      stage_mode_dialog_60: -4375414214717836395
+      stage_mode_dialog_61: 5022885218304344723
+      stage_mode_dialog_62: -9149285039843358472
+      stage_mode_dialog_63: 532054503837645750
+      stage_mode_dialog_64: -7878762094349807192
+      stage_mode_dialog_65: 5299050585326751952
+      stage_mode_dialog_66: 3792226230711623903
+      stage_mode_dialog_67: 3512962602542031004
+      stage_mode_dialog_68: 4273962541990994176
+      stage_mode_dialog_69: -5820321238456390176
+      stage_mode_dialog_7: 2375552900860667750
+      stage_mode_dialog_70: -8967735377339060475
+      stage_mode_dialog_71: -6988712223834536137
+      stage_mode_dialog_72: 6334383586033988214
+      stage_mode_dialog_73: 364144828811340056
+      stage_mode_dialog_74: 1378547573774026569
+      stage_mode_dialog_75: -7206552883662053436
+      stage_mode_dialog_76: -1426061629196836556
+      stage_mode_dialog_77: 4348701215234578908
+      stage_mode_dialog_78: -871437476467394499
+      stage_mode_dialog_79: -7376118357012840102
+      stage_mode_dialog_8: 45829076176295426
+      stage_mode_dialog_80: -6219340670437883714
+      stage_mode_dialog_81: -2366270177073241216
+      stage_mode_dialog_82: 252104644372322373
+      stage_mode_dialog_9: 737290035845400965
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
