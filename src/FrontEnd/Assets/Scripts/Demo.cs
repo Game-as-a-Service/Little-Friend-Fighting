@@ -7,7 +7,6 @@ public class Demo : MonoBehaviour
     private float _maxHp;
     private Image _hpBar;
 
-    // Start is called before the first frame update
     void Start()
     {
         _maxHp = 100f;
@@ -17,6 +16,7 @@ public class Demo : MonoBehaviour
 
     public void OnDamage(float damage)
     {
+        Debug.Log(damage);
         if (_hp <= 0)
         {
             Debug.Log("dead.");

@@ -28,7 +28,7 @@ public class AudioManager : MonoBehaviour
         _audioSource.Play();
         StartCoroutine(StopAfterTime(endTime - startTime));
     }
-
+    
     public void PlayLoopSoundFromTo(float startTime, float endTime)
     {
         _looping = true;
