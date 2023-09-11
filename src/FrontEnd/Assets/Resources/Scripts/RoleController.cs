@@ -1,22 +1,24 @@
 using System;
 using System.Linq;
 using UnityEngine;
-
-// CommentByLineComment
+using UnityEngine.UI;
 
 public class RoleController : MonoBehaviour
 {
     public float speed = 500f;
     private Rigidbody2D _rb;
-    private bool _isFlipped;
     private Camera _mainCamera;
-    private float _objectWidth;
-    private float _objectHeight;
     private Animator _animator;
-    private static readonly int IsWalk = Animator.StringToHash("isWalk");
-    private static readonly int Attacked = Animator.StringToHash("attacked");
     private AudioManager _audioManager;
     private SpriteRenderer _spriteRenderer;
+    private float _objectWidth;
+    private float _objectHeight;
+    private static readonly int IsWalk = Animator.StringToHash("isWalk");
+    private static readonly int Attacked = Animator.StringToHash("attacked");
+    private float _hp;
+    private float _maxHp;
+    private Image _hpBar;
+
 
     private Vector2 moveInput;
 
@@ -30,6 +32,10 @@ public class RoleController : MonoBehaviour
         _animator = GetComponentInChildren<Animator>();
         _audioManager = GetComponentInChildren<AudioManager>();
         _spriteRenderer = GetComponent<SpriteRenderer>();
+
+        _maxHp = 100f;
+        _hp = _maxHp;
+        _hpBar = GameObject.Find("P2Hp").GetComponent<Image>();
     }
 
     void Update()
@@ -79,6 +85,22 @@ public class RoleController : MonoBehaviour
 
         _audioManager.PlaySoundFromTo(12f, 12.095192743764173f);
         _animator.SetTrigger(Attacked);
+    }
+
+    public void OnDamage(float damage)
+    {
+        if (_hp <= 0)
+        {
+            Debug.Log("dead.");
+            return;
+        }
+
+        _hp -= damage;
+
+        var fillAmount = _hp / _maxHp;
+        fillAmount = Mathf.Clamp01(fillAmount);
+        _hpBar.fillAmount = fillAmount;
+        Debug.Log($"血量剩餘{_hp}");
     }
 
     private void Move()

@@ -16,6 +16,14 @@ public class Demo : MonoBehaviour
 
     public void OnDamage(float damage)
     {
+        var spriteRenderer = GetComponent<SpriteRenderer>();
+        
+        if (spriteRenderer != null)
+        {
+            var randomColor = Random.ColorHSV();
+            spriteRenderer.color = randomColor;
+        }
+
         Debug.Log(damage);
         if (_hp <= 0)
         {

@@ -6,10 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/InitScene.unity
+    path: Assets/Resources/Scenes/InitScene.unity
     guid: bad7b6b7246034cb9909f792e02b7625
   - enabled: 1
-    path: Assets/Scenes/WalkScene.unity
+    path: Assets/Resources/Scenes/WalkScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
