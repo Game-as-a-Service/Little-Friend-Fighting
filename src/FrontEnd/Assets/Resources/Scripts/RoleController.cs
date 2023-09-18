@@ -9,7 +9,8 @@ public class RoleController : MonoBehaviour
     [SerializeField] private Rigidbody2D rb;
     private Camera _mainCamera;
     private Animator _animator;
-    private AudioManager _audioManager;
+    [SerializeField] private AudioManager _audioManager;
+    [SerializeField] private AudioSource _audioSource;
     private float _objectWidth;
     private float _objectHeight;
     private static readonly int IsWalk = Animator.StringToHash("isWalk");
@@ -27,11 +28,10 @@ public class RoleController : MonoBehaviour
     {
         _mainCamera = Camera.main;
 
-        // _rb = GetComponent<Rigidbody2D>();
+        // TODO: Use [SerializeField] 
         _objectWidth = GetComponent<SpriteRenderer>().bounds.size.x;
         _objectHeight = GetComponent<SpriteRenderer>().bounds.size.y;
         _animator = GetComponentInChildren<Animator>();
-        _audioManager = GetComponentInChildren<AudioManager>();
         _transform = GetComponent<Transform>();
 
         _maxHp = 100f;
@@ -46,11 +46,9 @@ public class RoleController : MonoBehaviour
         Move();
     }
 
-    /// <summary>
-    /// 可以用 Cine Machine
-    /// </summary>
     private void RestrictMovementInCameraView()
     {
+        // TODO: 可以用 Cinemachine
         // 取得攝影機的可見範圍
         var cameraLeftEdge = _mainCamera.ViewportToWorldPoint(new Vector3(0, 0, _mainCamera.nearClipPlane)).x;
         var cameraRightEdge = _mainCamera.ViewportToWorldPoint(new Vector3(1, 0, _mainCamera.nearClipPlane)).x;
@@ -107,13 +105,23 @@ public class RoleController : MonoBehaviour
 
     private void Move()
     {
-        _moveInput = new Vector2(Input.GetAxis("PlayerHorizontal" + PlayerId), Input.GetAxis("PlayerVertical" + PlayerId));
+        var horizontal = Input.GetAxis("PlayerHorizontal" + PlayerId);
+        var vertical = Input.GetAxis("PlayerVertical" + PlayerId);
+        _moveInput = new Vector2(horizontal, vertical);
+        
         if (_moveInput == Vector2.zero)
         {
             _animator.SetBool(IsWalk, false);
         }
         else
         {
+            var audioClip = _audioManager.GetAudioClip("Walk");
+            
+            // TODO: 動態產生 AudioSource
+            if (_audioSource.isPlaying is false)
+            {
+                _audioSource.PlayOneShot(audioClip);
+            }
             _animator.SetBool(IsWalk, true);
             var localScale = _transform.localScale;
             _transform.localScale = _moveInput.x > 0

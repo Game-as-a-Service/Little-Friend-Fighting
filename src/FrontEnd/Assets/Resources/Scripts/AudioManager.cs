@@ -1,16 +1,18 @@
 using System;
-using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 
 public class AudioManager : MonoBehaviour
 {
-    public AudioClip audioClip;
-    private bool _looping;
-    private Action _onMusicCompleteCallback;
-    
-    public AudioClip GetAudioClip(string key)
-    {
-        // Key Value => Key AudioClip
-        return audioClip;
-    }
+    [SerializeField] private List<AudioLookup> audioLookups;
+
+    public AudioClip GetAudioClip(string key) =>
+        audioLookups.Find(x => x.Key == key).AudioClip;
+}
+
+[Serializable]
+class AudioLookup
+{
+    public string Key;
+    public AudioClip AudioClip;
 }
