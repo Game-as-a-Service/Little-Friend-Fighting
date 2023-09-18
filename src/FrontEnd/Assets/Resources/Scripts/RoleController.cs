@@ -1,41 +1,42 @@
-using System;
-using System.Linq;
 using UnityEngine;
 using UnityEngine.UI;
 
 public class RoleController : MonoBehaviour
 {
+    public int PlayerId;
+    public KeyCode AttackKeyCode;
     public float speed = 500f;
-    private Rigidbody2D _rb;
+    [SerializeField] private Rigidbody2D rb;
     private Camera _mainCamera;
     private Animator _animator;
     private AudioManager _audioManager;
-    private SpriteRenderer _spriteRenderer;
     private float _objectWidth;
     private float _objectHeight;
     private static readonly int IsWalk = Animator.StringToHash("isWalk");
     private static readonly int Attacked = Animator.StringToHash("attacked");
+    public string PlayerHp; 
     private float _hp;
     private float _maxHp;
     private Image _hpBar;
 
 
-    private Vector2 moveInput;
+    private Vector2 _moveInput;
+    private Transform _transform;
 
     void Start()
     {
         _mainCamera = Camera.main;
 
-        _rb = GetComponent<Rigidbody2D>();
+        // _rb = GetComponent<Rigidbody2D>();
         _objectWidth = GetComponent<SpriteRenderer>().bounds.size.x;
         _objectHeight = GetComponent<SpriteRenderer>().bounds.size.y;
         _animator = GetComponentInChildren<Animator>();
         _audioManager = GetComponentInChildren<AudioManager>();
-        _spriteRenderer = GetComponent<SpriteRenderer>();
+        _transform = GetComponent<Transform>();
 
         _maxHp = 100f;
         _hp = _maxHp;
-        _hpBar = GameObject.Find("P2Hp").GetComponent<Image>();
+        _hpBar = GameObject.Find(PlayerHp).GetComponent<Image>();
     }
 
     void Update()
@@ -45,6 +46,9 @@ public class RoleController : MonoBehaviour
         Move();
     }
 
+    /// <summary>
+    /// 可以用 Cine Machine
+    /// </summary>
     private void RestrictMovementInCameraView()
     {
         // 取得攝影機的可見範圍
@@ -78,13 +82,11 @@ public class RoleController : MonoBehaviour
 
     private void Attack()
     {
-        if (!Input.GetKeyDown(KeyCode.Z))
+        if (Input.GetKeyDown(AttackKeyCode))
         {
-            return;
+            // TODO: 要切檔案，集中管理
+            _animator.SetTrigger(Attacked);
         }
-
-        _audioManager.PlaySoundFromTo(12f, 12.095192743764173f);
-        _animator.SetTrigger(Attacked);
     }
 
     public void OnDamage(float damage)
@@ -105,32 +107,23 @@ public class RoleController : MonoBehaviour
 
     private void Move()
     {
-        moveInput = new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"));
-        if (moveInput == Vector2.zero)
+        _moveInput = new Vector2(Input.GetAxis("PlayerHorizontal" + PlayerId), Input.GetAxis("PlayerVertical" + PlayerId));
+        if (_moveInput == Vector2.zero)
         {
             _animator.SetBool(IsWalk, false);
         }
         else
         {
             _animator.SetBool(IsWalk, true);
-            if (moveInput.x > 0)
-            {
-                _spriteRenderer.flipX = false;
-            }
-            else
-            {
-                _spriteRenderer.flipX = true;
-            }
-
-            if (!_audioManager.IsPlaying)
-            {
-                _audioManager.PlaySoundFromTo(4.0f, 4.420272108843537f);
-            }
+            var localScale = _transform.localScale;
+            _transform.localScale = _moveInput.x > 0
+                ? new Vector3(1, localScale.y, localScale.z)
+                : new Vector3(-1, localScale.y, localScale.z);
         }
     }
 
     private void FixedUpdate()
     {
-        _rb.AddForce(moveInput * speed);
+        rb.AddForce(_moveInput * speed);
     }
 }

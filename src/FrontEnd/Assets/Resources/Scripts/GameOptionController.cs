@@ -42,7 +42,7 @@ public class GameOptionController : MonoBehaviour
     {
         if (!Input.GetKeyDown(KeyCode.Return) && !Input.GetKeyDown(KeyCode.KeypadEnter)) return;
         _isLock = true;
-        _audioManager.PlaySoundFromTo(241.0f, 241.9318820861678f, onMusicCompleteCallback: MusicCompleteCallback);
+        // _audioManager.PlaySoundFromTo(241.0f, 241.9318820861678f, onMusicCompleteCallback: MusicCompleteCallback);
     }
 
     private void SelectLastOption()
@@ -51,7 +51,7 @@ public class GameOptionController : MonoBehaviour
         if (_currentIndex == 0) _currentIndex = 2;
         else _currentIndex--;
         SetSelectedImage();
-        _audioManager.PlaySoundFromTo(232.0f, 232.16f);
+        // _audioManager.PlaySoundFromTo(232.0f, 232.16f);
     }
 
     private void SelectNextOption()
@@ -60,7 +60,7 @@ public class GameOptionController : MonoBehaviour
         if (_currentIndex == 2) _currentIndex = 0;
         else _currentIndex++;
         SetSelectedImage();
-        _audioManager.PlaySoundFromTo(232.0f, 232.16f);
+        // _audioManager.PlaySoundFromTo(232.0f, 232.16f);
     }
 
 
