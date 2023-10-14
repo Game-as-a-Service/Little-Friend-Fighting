@@ -15,14 +15,19 @@ public class RoleController : MonoBehaviour
     private float _objectHeight;
     private static readonly int IsWalk = Animator.StringToHash("isWalk");
     private static readonly int Attacked = Animator.StringToHash("attacked");
-    public string PlayerHp; 
+    private static readonly int Dead = Animator.StringToHash("Dead");
+    public string PlayerHp;
     private float _hp;
     private float _maxHp;
     private Image _hpBar;
 
-
     private Vector2 _moveInput;
     private Transform _transform;
+    private int _rightArrowPressedCount;
+    private float _rightArrowPressedFirstTime;
+    private int _leftArrowPressedCount;
+    private float _leftArrowPressedFirstTime;
+    private bool _isRunFacingRight;
 
     void Start()
     {
@@ -44,6 +49,50 @@ public class RoleController : MonoBehaviour
         RestrictMovementInCameraView();
         Attack();
         Move();
+        
+        // 按兩下方向鍵跑步, 而且要往朝向的方向跑,而且要控制不同的玩家跑，像是玩家一按右鍵跑，玩家二按左鍵跑
+        if (PlayerId == 2 && Input.GetKeyDown(KeyCode.RightArrow))
+        {
+            _rightArrowPressedCount++;
+            if (_rightArrowPressedCount == 1)
+            {
+                _rightArrowPressedFirstTime = Time.time;
+            }
+            else if (_rightArrowPressedCount == 2)
+            {
+                if (Time.time - _rightArrowPressedFirstTime <= 1)
+                {
+                    _isRunFacingRight = _transform.localScale.x > 0;
+                    Run();
+                }
+        
+                _rightArrowPressedCount = 0;
+            }
+        }
+        else if (PlayerId == 2 && Input.GetKeyDown(KeyCode.LeftArrow))
+        {
+            _leftArrowPressedCount++;
+            if (_leftArrowPressedCount == 1)
+            {
+                _leftArrowPressedFirstTime = Time.time;
+            }
+            else if (_leftArrowPressedCount == 2)
+            {
+                if (Time.time - _leftArrowPressedFirstTime <= 1)
+                {
+                    _isRunFacingRight = _transform.localScale.x > 0;
+                    Run();
+                }
+                
+                _leftArrowPressedCount = 0;
+            }
+        }
+    }
+
+    private void Run()
+    {
+        _animator.SetBool("Run", true);
+        speed = 1000f;
     }
 
     private void RestrictMovementInCameraView()
@@ -89,18 +138,20 @@ public class RoleController : MonoBehaviour
 
     public void OnDamage(float damage)
     {
-        if (_hp <= 0)
-        {
-            Debug.Log("dead.");
-            return;
-        }
-
         _hp -= damage;
-
         var fillAmount = _hp / _maxHp;
         fillAmount = Mathf.Clamp01(fillAmount);
         _hpBar.fillAmount = fillAmount;
-        Debug.Log($"血量剩餘{_hp}");
+
+        if (_hp <= 0)
+        {
+            Debug.Log("dead.");
+            _animator.SetTrigger(Dead);
+        }
+        else
+        {
+            Debug.Log($"血量剩餘{_hp}");
+        }
     }
 
     private void Move()
@@ -108,7 +159,7 @@ public class RoleController : MonoBehaviour
         var horizontal = Input.GetAxis("PlayerHorizontal" + PlayerId);
         var vertical = Input.GetAxis("PlayerVertical" + PlayerId);
         _moveInput = new Vector2(horizontal, vertical);
-        
+
         if (_moveInput == Vector2.zero)
         {
             _animator.SetBool(IsWalk, false);
@@ -116,12 +167,20 @@ public class RoleController : MonoBehaviour
         else
         {
             var audioClip = _audioManager.GetAudioClip("Walk");
-            
+
             // TODO: 動態產生 AudioSource
             if (_audioSource.isPlaying is false)
             {
                 _audioSource.PlayOneShot(audioClip);
             }
+
+            if (_isRunFacingRight && _moveInput.x < 0 ||
+                !_isRunFacingRight && _moveInput.x > 0)
+            {
+                speed = 500f;
+                _animator.SetBool("Run", false);
+            }
+
             _animator.SetBool(IsWalk, true);
             var localScale = _transform.localScale;
             _transform.localScale = _moveInput.x > 0
@@ -132,6 +191,17 @@ public class RoleController : MonoBehaviour
 
     private void FixedUpdate()
     {
+        // 如果是在 Run 的狀態，就會往角色的方向往前移動，不用案方向鍵
+        if (_animator.GetBool("Run"))
+        {
+            var isRight = _transform.localScale.x > 0;
+            var vector3 = isRight
+                ? _transform.right.normalized
+                : -transform.right.normalized;
+            rb.AddForce(vector3 * speed);
+            return;
+        }
+
         rb.AddForce(_moveInput * speed);
     }
 }

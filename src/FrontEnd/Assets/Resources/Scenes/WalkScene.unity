@@ -648,7 +648,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4894513346709895791, guid: f8126878fc4fc5248871b46830ce409d, type: 3}
       propertyPath: m_TagString
-      value: Bandit1
+      value: Untagged
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 1097770476214702895, guid: f8126878fc4fc5248871b46830ce409d, type: 3}
@@ -798,6 +798,10 @@ PrefabInstance:
       propertyPath: _audioManager
       value: 
       objectReference: {fileID: 1947565069}
+    - target: {fileID: 2199811390967391317, guid: f8126878fc4fc5248871b46830ce409d, type: 3}
+      propertyPath: m_AnimatePhysics
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3044836101028611619, guid: f8126878fc4fc5248871b46830ce409d, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -884,7 +888,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4894513346709895791, guid: f8126878fc4fc5248871b46830ce409d, type: 3}
       propertyPath: m_TagString
-      value: Bandit1
+      value: Untagged
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 1097770476214702895, guid: f8126878fc4fc5248871b46830ce409d, type: 3}
